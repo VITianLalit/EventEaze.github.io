@@ -1,0 +1,16 @@
+const appname = "EventEaze";
+const splashScreenImage = 'assets/images/logo.png';
+const login = "Login";
+const signup = "Sign Up";
+const welcomeScreenImage = 'assets/images/Illustration.png';
+const welcomeScreenText = "Automatic identity verification which enables you to verify your identity";
+const welcome = "Welcome";
+const logintext = "Login to your account";
+const email = "Email";
+const password = "Password";
+const doNotHaveAccount = "Don't have an account?";
+const loginPageImage = 'assets/images/background.png';
+const aboutImage = 'assets/images/about.jpg';
+const signUpPageText = "Create an account, It's free";
+const confirmPassword = "Confirm Password";
+const alreadyHaveAnAccount = "Already have an account?";

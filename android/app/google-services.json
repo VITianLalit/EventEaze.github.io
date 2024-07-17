@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956206840069",
+    "project_id": "eventeaze-1d998",
+    "storage_bucket": "eventeaze-1d998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956206840069:android:a65a452d81249e3d585f6c",
+        "android_client_info": {
+          "package_name": "com.example.event_eaze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwY8vZOybdWNURXQDSORbx1OaNGkGX_t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
