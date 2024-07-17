@@ -1,4 +1,4 @@
-# event_eaze
+# EventEaze
 
 A new Flutter project.
 
